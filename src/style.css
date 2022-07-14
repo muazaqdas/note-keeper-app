@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+.heading{
+    background-color: rgb(255, 208, 0);
+    color: #fff;
+    padding: 2% 10% 2% 2%;
+    margin: 0;
+}
