@@ -1,6 +1,6 @@
 import React from "react";
 // import reactDOM from "react-dom";
-import Heading from "./Components/Heading";
+import Heading from "./Heading";
 
 
 function App() {
