@@ -5,6 +5,8 @@ import { Grid } from "@mui/material";
 // import { BsGithub } from "react-icons/bs";
 import { CgGitFork } from "react-icons/cg";
 import { AiFillStar } from "react-icons/ai";
+import { GiNotebook } from "react-icons/gi";
+
 
 
 import "../assets/style/heading.css"
@@ -14,7 +16,7 @@ function Heading(){
         <header>
         <Grid container spacing={1}>
             <Grid item xs={9}>
-                <h1 className="heading">Keeper</h1>
+                <h1 className="heading"><GiNotebook/> Note Keeper</h1>
             </Grid>
             <Grid item xs={3}>
                 <Button className="githubButton" href="https://github.com/muazaqdas/note-keeper-app" variant="outlined" target="_blank">
