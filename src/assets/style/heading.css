@@ -1,0 +1,7 @@
+.githubButton{
+    position: absolute !important;
+    margin-top: 10px !important;
+    right: 20px;
+    color: bisque !important;
+    border-color: bisque !important;
+}
