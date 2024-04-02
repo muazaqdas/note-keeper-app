@@ -19,10 +19,10 @@ function Heading(){
                 <h1 className="heading"><GiNotebook/> Note Keeper</h1>
             </Grid>
             <Grid item xs={3}>
-                // <Button className="githubButton" href="https://github.com/muazaqdas/note-keeper-app" variant="outlined" target="_blank">
-                //     <CgGitFork style={{ fontSize: "1.7em" }} />{" "}
-                //     <AiFillStar style={{ fontSize: "1.6em" }} />
-                // </Button>
+                  {/* <Button className="githubButton" href="https://github.com/muazaqdas/note-keeper-app" variant="outlined" target="_blank">
+                    <CgGitFork style={{ fontSize: "1.7em" }} />{" "}
+                    <AiFillStar style={{ fontSize: "1.6em" }} />
+                </Button>*/}
             </Grid>
         </Grid>
         </header>
